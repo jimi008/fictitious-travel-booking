@@ -1,2 +1,2 @@
 # fictitious-travel-booking
-Leverage DevOps popular tools and methodologies to make updating, testing, and releasing the app a breeze
+Leverage DevOps popular tools and methodologies to make updating, testing, and releasing the app a breeze. Containerize the website with Docker and Docker Compose, write unit and integration tests with RSpec, Capybara, and Selenium. Deploy website into the cloud with Terraform and write a Jenkinsfile that will build, test, and deploy the app. Turn a slow and complex application development process into a fast and enjoyable one.
